@@ -1,4 +1,4 @@
-[ENDERFLAME SCRIPTS 2.0] CRACKED
+#EGOM SCRIPTS Ghost Macro
 
 NEW FEATURES
 - BLACKLIST: This is a list of igns and nicks that the script should look out for and avoid being in the same lobby as.
