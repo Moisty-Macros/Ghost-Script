@@ -1,4 +1,6 @@
-#EGOM SCRIPTS Ghost Macro
+**EGOM SCRIPTS Ghost Macro**
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 NEW FEATURES
 - BLACKLIST: This is a list of igns and nicks that the script should look out for and avoid being in the same lobby as.
